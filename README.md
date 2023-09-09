@@ -23,6 +23,10 @@ Complexity = O(logn), very efficient
 
 
 ## Question #4
-
+Was not able to get a running program.  
+Create a linked list and use two pointers to traverse the linked list  
+and locate the nth position. The node at the nth position would be removed  
+and would print the modified head.
+Complexity = O(n), not very efficient
 
 ## Question #5

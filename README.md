@@ -26,7 +26,12 @@ Complexity = O(logn), very efficient
 Was not able to get a running program.  
 Create a linked list and use two pointers to traverse the linked list  
 and locate the nth position. The node at the nth position would be removed  
-and would print the modified head.
+and would print the modified head.  
 Complexity = O(n), not very efficient
 
 ## Question #5
+Unable to get a running program.  
+Wrote suedo code that traveses through the lists and adds each node  
+to a new linked list which will then be sorted by built in python function  
+and displayed.  
+Complexity = unsure
